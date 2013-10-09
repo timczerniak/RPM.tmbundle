@@ -36,7 +36,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>^(\%(description|prep|build|install|clean|files|changelog|preun|postun|pre|post))</string>
+			<string>^(\%(description|prep|build|install|clean|files|changelog|pretrans|posttrans|preun|postun|pre|post))</string>
 			<key>name</key>
 			<string>meta.class.spec</string>
 		</dict>
